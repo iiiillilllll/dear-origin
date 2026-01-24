@@ -63,3 +63,4 @@ Bringing in from the sea of Dirac....
 |01.21|3,500|110,500|12|
 |01.22|rest|too nervous..||
 |01.23|2,700|113,200|12|
+|01.24|rest|wanted to play..|weekend|
