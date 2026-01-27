@@ -3,7 +3,7 @@ Bringing in from the sea of Dirac....
 
 |날짜|누적|위치|     
 |---:|---:|---:|
-|2026. 01. 23|113,200|12|
+|2026. 01. 27|126,000|13|
 
 <br>
 
@@ -64,4 +64,8 @@ Bringing in from the sea of Dirac....
 |01.22|rest|too nervous..||
 |01.23|2,700|113,200|12|
 |01.24|rest|wanted to play..|weekend|
-|01.25||Can I finish..|weekend|
+|01.25|rest|too fear..|weekend|
+|01.26|2,200|115,400|13|
+|prepared|6,600|122,000|13|
+|01.27|4,000|126,000|13|
+|||||
