@@ -4,7 +4,7 @@ Bringing in from the sea of Dirac....
 |날짜|누적|위치|     
 |:---|---:|---:|
 |2026. 01. 29|130,700|draft done|
-|2026. 01. 30 ~||making cover|
+|2026. 01. 30||cover done|
 
 <br>
 
@@ -71,3 +71,4 @@ Bringing in from the sea of Dirac....
 |01.27|4,000|126,000|13|
 |01.28|1,500|127,500|14|
 |01.29|3,200|130,700|draft done|
+|01.30|use canva|making cover|done|
