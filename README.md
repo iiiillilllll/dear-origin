@@ -10,6 +10,10 @@ Bringing in from the sea of Dirac....
 
 <br>
 
+help cover : [@creatorjudi](https://www.canva.com/p/creatorjudi/) on [canva](https://www.canva.com/)  
+help banners : [@canvacreativestudio](https://www.canva.com/p/canvacreativestudio/), [@boroostudio](https://www.canva.com/p/boroostudio/) on [canva](https://www.canva.com/)  
+
+
 ---------------
 
 <br>
