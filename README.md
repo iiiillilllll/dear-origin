@@ -5,13 +5,15 @@ Bringing in from the sea of Dirac....
 |:---|---:|---:|
 |2026. 01. 29|130,700|draft done|
 |2026. 01. 30|making cover| done|
-||making baners, date update..|done|
-|2026. 01. 31 ~||polishing|
+||making baners|done|
+|2026. 01. 31 ~|polishing||
+|2026. 02. 03||done|
 
 <br>
 
 help cover : [@creatorjudi](https://www.canva.com/p/creatorjudi/) on [canva](https://www.canva.com/)  
 help banners : [@canvacreativestudio](https://www.canva.com/p/canvacreativestudio/), [@boroostudio](https://www.canva.com/p/boroostudio/) on [canva](https://www.canva.com/)  
+help cards : [@보라비디자인borabidesign](https://www.canva.com/p/borabi-design) on [canva](https://www.canva.com/)    
 
 
 ---------------
