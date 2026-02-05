@@ -1,82 +1,36 @@
-# Loading....
-Bringing in from the sea of Dirac....
+# 디어오리진
+### Dear Origin  
+--------------------
+<img src="resources/dearorigin-cover-creatorjudi.jpg" width="300px" title="DearOrigin" alt="dearOrigin"></img>
 
-|날짜|누적|위치|     
-|:---|---:|---:|
-|2026. 01. 29|130,700|draft done|
-|2026. 01. 30|making cover| done|
-||making baners|done|
-|2026. 01. 31 ~|polishing||
-|2026. 02. 03||done|
+###### Sorry. Only Korean.ver yet...  
+-----------------------
+>똑똑한 머리, 잘난 애인, 전지전능의 잠재력,   
+그 모든 걸 헌신짝처럼 내팽개치고  
+양자 바다에 퐁당 몸을 던졌던 디랙의 인어 지수연이 다시 돌아왔다!
+지수연은 오리진을 찾아 소원을 이룰 수 있을까?
 
-<br>
+### 우당탕탕 좌충우돌 신나는 SF 로맨스 대환장파티!
+## 오리진, 부디 여기로 와 주세요!
 
-help cover : [@creatorjudi](https://www.canva.com/p/creatorjudi/) on [canva](https://www.canva.com/)  
-help banners : [@canvacreativestudio](https://www.canva.com/p/canvacreativestudio/), [@boroostudio](https://www.canva.com/p/boroostudio/) on [canva](https://www.canva.com/)  
-help cards : [@보라비디자인borabidesign](https://www.canva.com/p/borabi-design) on [canva](https://www.canva.com/)    
+About
+------------------------
+- [Writing Log](/log.md)  
 
+------------------------
+## Purchase
+- [교보문고](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012554476)  
+- [예스24](https://www.yes24.com/product/goods/177150855)      
+
+
+## subscribe Survice    
+- [교보문고 eBook sam](https://sam.kyobobook.co.kr/)
+- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) 
 
 ---------------
 
-<br>
-<br>
+
+<img src="resources/754-card.jpg" width="500px" title="infocards" alt="infocards"></img>
 
 
-|날짜|글자수|누적|위치|
-|---:|---:|---:|:---:|
-|2025.12.06 ~||||
-|2026.01.01||46,400|6|
-|01.02|3,800|50,200|6|
-||1,300|51,500|7|
-|01.03|1,700|53,200|7|
-||1,800|rough|7|
-||2,700|55,900|7|
-|| - 600|55,300|7|
-|01.05|800|56,100|7|
-|??|4,000|60,100|7|
-||1,500|rough|8|
-|01.06|1,500|61,600|8|
-|01.07|1,100|62,700|8|
-||5,400|68,100|8|
-|| - 200|67,900|8|
-||1,300|rough|9|
-|01.08|300|68,200|9|
-||2,100|70,300|9|
-|01.09| - 2,900|67,400|9|
-||3,000|rough|9|
-||3,600|71,000|9|
-||1,600|72,600|9|
-||500|rough|9|
-|01.10|2,600|75,200|9|
-|01.11|3,700|78,900|9|
-|| - 500|78,400|9|
-||1,000|rough|10|
-|01.12|3,600|82,000|10|
-||2,200|rough|10|
-|01.13|7,100|89,100|10|
-|??|800|89,900|10|
-||1,300|rough|11|
-|01.14|2,300|92,200|11|
-|| - 1,600|90,600|11|
-|01.15|4,700|95,300|11|
-|01.16|1,300|rough|11|
-||3,300|98,600|11|
-|01.17|3,700|102,300|11|
-||100|102,400|12|
-|01.18|990|rough|12|
-|01.19|1,800|104,200|12|
-||1,100|rough|12|
-|01.20|400|104,600|12|
-||2,400|107,000|12|
-||1,900|rough|12,13|
-|01.21|3,500|110,500|12|
-|01.22|rest|too nervous..||
-|01.23|2,700|113,200|12|
-|01.24|rest|wanted to play..|weekend|
-|01.25|rest|too fear..|weekend|
-|01.26|2,200|115,400|13|
-|prepared|6,600|122,000|13|
-|01.27|4,000|126,000|13|
-|01.28|1,500|127,500|14|
-|01.29|3,200|130,700|draft done|
-|01.30|use canva|making cover|done|
+
