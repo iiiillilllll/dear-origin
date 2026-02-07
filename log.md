@@ -3,13 +3,16 @@ Bringing in from the sea of Dirac....
 
 |날짜|누적|위치|     
 |:---|---:|---:|
-|2025. 12. 06~|||
+|2025. 12. 06 ~|||
 |2026. 01. 29|130,700|draft done|
 |2026. 01. 30|making cover| done|
 ||making cards|done|
 |2026. 01. 31 ~|polishing||
 |2026. 02. 03||done|
 |2026. 02. 04||published|
+|2026. 02. 06 ~|epup polishing|오타가 넘 많넹ㅠㅠ|
+|2026.02.07||done|
+
 
 <br>
 
