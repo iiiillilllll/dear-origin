@@ -3,7 +3,7 @@
 --------------------
 <img src="resources/dearorigin-cover-creatorjudi.jpg" width="300px" title="DearOrigin" alt="dearOrigin"></img>
 
-###### Sorry. Only Korean.ver yet...  
+###### 종이책 출간(2026.09.07)으로 인해 절판하였습니다.  
 -----------------------
 >똑똑한 머리, 잘난 애인, 전지전능의 잠재력,   
 그 모든 걸 헌신짝처럼 내팽개치고  
@@ -19,13 +19,13 @@ About
 
 ------------------------
 ## Purchase
-- [교보문고](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012554476)  
-- [예스24](https://www.yes24.com/product/goods/177150855)      
+- ~~[교보문고](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000012554476)~~  
+- ~~[예스24](https://www.yes24.com/product/goods/177150855)~~      
 
 
 ## subscribe Survice    
-- [교보문고 eBook sam](https://sam.kyobobook.co.kr/)
-- [예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main) 
+- ~~[교보문고 eBook sam](https://sam.kyobobook.co.kr/)~~
+- ~~[예스24 크레마클럽](https://cremaclub.yes24.com/BookClub/Main)~~ 
 
 ---------------
 
